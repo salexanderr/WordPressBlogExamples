@@ -22,7 +22,7 @@ cook_beans:
 	echo ""
 	echo "Open tin of beans"
 	echo "Put a pan on the hob"
-	echo "Pour bins into pan"
+	echo "Pour beans into pan"
 	echo $(HOB_HEAT)
 	echo "Stir beans until cooked"
 	echo "Turn off hob"
