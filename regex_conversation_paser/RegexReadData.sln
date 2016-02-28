@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexReadData", "RegexReadData\RegexReadData.csproj", "{350FD362-C686-45B8-9028-82D5220A6530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexReadDataTests", "RegexReadDataTests\RegexReadDataTests.csproj", "{04CC878C-6F59-48DB-B873-6D22C1158678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350FD362-C686-45B8-9028-82D5220A6530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350FD362-C686-45B8-9028-82D5220A6530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350FD362-C686-45B8-9028-82D5220A6530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350FD362-C686-45B8-9028-82D5220A6530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CC878C-6F59-48DB-B873-6D22C1158678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CC878C-6F59-48DB-B873-6D22C1158678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CC878C-6F59-48DB-B873-6D22C1158678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CC878C-6F59-48DB-B873-6D22C1158678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
