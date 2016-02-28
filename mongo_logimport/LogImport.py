@@ -19,10 +19,11 @@ def ParseLogfile(filepath):
 	Reads the logfile and returns the log entries. The format read is as follows:
 	(type): "(user)" [(date)] 0ms "(function)" "(status)"
 	"""
-	# Open the specified log file for reading
-	logfile = open(filepath, 'r')
 	
 	try:
+		# Open the specified log file for reading
+		logfile = open(filepath, 'r')
+		
 		# Variable to store all of the entries
 		entries = []
 		
